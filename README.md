@@ -34,7 +34,7 @@ To run this project, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone [https://github.com/kajalmahajan23/IPL-Data-Analysis-using-Apache-Spark-and-Databricks](https://github.com/kajalmahajan23/IPL-Data-Analysis-using-Apache-Spark-and-Databricks.git)
+   git clone https://github.com/kajalmahajan23/IPL-Data-Analysis-using-Apache-Spark-and-Databricks.git
    cd IPL-Data-Analysis-using-Apache-Spark-and-Databricks
    ```
 
